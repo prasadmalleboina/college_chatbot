@@ -1,0 +1,14 @@
+{
+  "courses": {
+    "cse": "Computer Science Engineering - 4 years",
+    "ece": "Electronics and Communication Engineering",
+    "eee": "Electrical Engineering"
+  },
+  "fees": {
+    "cse": "₹1,00,000 per year",
+    "ece": "₹90,000 per year",
+    "eee": "₹80,000 per year"
+  },
+  "placement": "90% placement rate. Top companies visit.",
+  "hostel": "Hostel available for boys and girls."
+}
