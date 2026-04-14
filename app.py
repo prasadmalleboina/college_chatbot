@@ -51,7 +51,7 @@ def get_response(msg):
             return response.choices[0].message.content
 
         except Exception as e:
-            return "AI service is not available right now."
+            return str(e)
 
 # Routes
 @app.route("/")
